@@ -132,7 +132,7 @@ Easy identification of areas for salary optimization and employee retention stra
 
 ---
 
-Expected Outcomes
+## Expected Outcomes
 
 1. Short-Term:
 
@@ -154,7 +154,7 @@ Improved employee satisfaction and retention rates.
 
 ---
 
-Page Descriptions (Dashboard Breakdown)
+## Page Descriptions (Dashboard Breakdown)
 
 1. Sum of Daily Rate by Education Field:
 
