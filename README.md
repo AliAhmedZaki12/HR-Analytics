@@ -45,7 +45,9 @@ Aggregated Metrics:
 
 Total number of employees.
 
+
 Average employee age.
+
 
 Sum of education levels and daily rates.
 
@@ -58,9 +60,12 @@ Sum of education levels and daily rates.
 
 Improved understanding of salary dynamics across education fields and job roles.
 
+
 Insights into employee demographics to shape HR policies.
 
+
 Effective visualization of salary hikes based on job performance and roles.
+
 
 Enhanced workforce planning and decision-making through actionable data.
 
@@ -78,6 +83,7 @@ Ensured standardization of fields like job roles and education levels.
 
 
 
+
 2. Data Transformation:
 
 Categorized salary slabs and age groups.
@@ -91,6 +97,7 @@ Aggregated metrics for daily rates, education, and salaries.
 Designed intuitive visuals using Power BI.
 
 Included filters and drill-down options for dynamic data exploration.
+
 
 
 
@@ -112,11 +119,16 @@ Generated summary statistics for key metrics.
 
 Employees in Life Sciences dominate the daily rate contribution (41.11%).
 
+
 Sales Executives have the highest salary hikes (4.9k) and total age contribution (12.2k).
+
 
 Most employees fall within the 26-35 age group, contributing the most to education levels.
 
+
 Salary slabs are concentrated under 5k for the majority, with sharp drops in higher ranges.
+
+
 
 
 
@@ -142,6 +154,8 @@ Identification of key drivers for salary hikes and role effectiveness.
 
 
 
+
+
 2. Long-Term:
 
 Strategic HR policy implementation.
@@ -156,7 +170,7 @@ Improved employee satisfaction and retention rates.
 
 ## Page Descriptions (Dashboard Breakdown)
 
-1. Sum of Daily Rate by Education Field:
+# 1. Sum of Daily Rate by Education Field:
 
 Purpose: To analyze the contribution of different education fields to the overall daily rate.
 
@@ -166,7 +180,7 @@ Insight: Life Sciences leads with 41.11%, followed by Technical Degrees at 32.52
 
 
 
-2. Sum of Age by Salary Slab:
+# 2. Sum of Age by Salary Slab:
 
 Purpose: To examine the distribution of employee ages across salary ranges.
 
@@ -176,7 +190,7 @@ Insight: Majority of ages are concentrated in the salary range below 5k, indicat
 
 
 
-3. Sum of Age by Job Role:
+# 3. Sum of Age by Job Role:
 
 Purpose: To highlight the total age contribution by various job roles.
 
@@ -186,8 +200,7 @@ Insight: Sales Executives have the largest contribution, suggesting their promin
 
 
 
-4. Sum of Education by Age Group:
-
+# 4. Sum of Education by Age Group:
 Purpose: To assess the educational contribution by different age demographics.
 
 Visual: A bar chart categorizing age groups (26-35, 36-45, etc.).
@@ -196,7 +209,7 @@ Insight: The 26-35 group dominates, reflecting the younger workforce's higher ed
 
 
 
-5. Sum of Percent Salary Hike by Job Role:
+# 5. Sum of Percent Salary Hike by Job Role:
 
 Purpose: To explore salary growth trends across job roles.
 
