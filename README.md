@@ -221,9 +221,7 @@ Insight: Sales Executives and Research Scientists lead in salary hikes, suggesti
 
 
 
----
 
-This Power BI project demonstrates how data-driven insights can significantly improve HR strategy and operational efficiency. It serves as a foundation for continuous improvements in employee satisfaction and organizational growth.
 
 
 
