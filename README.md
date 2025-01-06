@@ -1,16 +1,16 @@
- HR Analytics 
+## HR Analytics 
 
 
 ---
 
-Purpose
+## Purpose
 
 The primary purpose of this project is to perform comprehensive HR data analysis and visualize insights to support decision-making in employee management. The dashboard was built using Power BI, enabling clear and actionable understanding of key HR metrics such as employee performance, salary distribution, age demographics, and more.
 
 
 ---
 
-Objectives
+## Objectives
 
 1. Analyze HR data for insights on employee demographics, education, roles, and salary.
 
@@ -28,7 +28,7 @@ Objectives
 
 ---
 
-Key Features
+## Key Features
 
 Interactive Dashboard: Allows users to filter and drill down into specific metrics.
 
@@ -54,7 +54,7 @@ Sum of education levels and daily rates.
 
 ---
 
-Target Benefits
+## Target Benefits
 
 Improved understanding of salary dynamics across education fields and job roles.
 
@@ -68,7 +68,7 @@ Enhanced workforce planning and decision-making through actionable data.
 
 ---
 
-Methodology
+## Methodology
 
 1. Data Cleaning:
 
@@ -106,7 +106,7 @@ Generated summary statistics for key metrics.
 
 ---
 
-Results
+## Results
 
 1. Key Insights:
 
